@@ -35,6 +35,7 @@ export default function Navbar() {
           <nav className="hidden lg:flex items-center space-x-6 text-sm font-semibold text-navy-900">
             <a href="/services" className="hover:text-blue-800 py-2 border-b-2 border-transparent hover:border-red-600 transition">Services</a>
             <a href="/locations" className="hover:text-blue-800 py-2 border-b-2 border-transparent hover:border-red-600 transition">Service Areas</a>
+            <a href="/quote" className="hover:text-blue-800 py-2 border-b-2 border-transparent hover:border-red-600 transition">Get a Quote</a>
             <a href="/contact" className="hover:text-blue-800 py-2 border-b-2 border-transparent hover:border-red-600 transition">Contact</a>
           </nav>
 
@@ -74,6 +75,7 @@ export default function Navbar() {
           <div className="lg:hidden bg-white border-t px-6 py-4 space-y-3">
             <a href="/services" className="block text-navy-900 font-semibold py-2 border-b">Services</a>
             <a href="/locations" className="block text-navy-900 font-semibold py-2 border-b">Service Areas</a>
+            <a href="/quote" className="block text-navy-900 font-semibold py-2 border-b">Get a Quote</a>
             <a href="/contact" className="block text-navy-900 font-semibold py-2 border-b">Contact</a>
             <a href="tel:2025551234" className="block text-red-600 font-bold text-lg py-2">(202) 555-1234</a>
             <a href="/contact" className="block bg-red-600 text-white text-center py-3 rounded font-semibold">Schedule Service</a>
