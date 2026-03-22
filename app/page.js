@@ -70,7 +70,7 @@ export default function Home() {
             <div className="hidden md:block relative">
               <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-white/10">
                 <img
-                  src="https://images.unsplash.com/photo-1621905252472-943afaa20e20?auto=format&fit=crop&w=800&q=80"
+                  src="/hero-technician.jpg"
                   alt="CoolHVAC certified technician on the job"
                   className="w-full h-[480px] object-cover"
                 />
