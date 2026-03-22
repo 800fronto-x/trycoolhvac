@@ -120,7 +120,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="border-t border-white/10 mt-10 pt-6 flex flex-col md:flex-row justify-between items-center gap-3">
           <p className="text-gray-500 text-sm">
-            &copy; {new Date().getFullYear()} CoolHVAC. All rights reserved.
+            &copy; {new Date().getFullYear()} JMO HVAC Service Inc. All rights reserved.
           </p>
           <div className="flex items-center space-x-6 text-sm text-gray-500">
             <a href="#" className="hover:text-gray-300 transition">Privacy Policy</a>
