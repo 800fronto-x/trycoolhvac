@@ -39,11 +39,11 @@ export default function Home() {
                   </svg>
                   <span>Schedule Service</span>
                 </a>
-                <a href="tel:2025551234" className="text-white font-bold text-xl hover:text-red-400 transition flex items-center space-x-2">
+                <a href="tel:2024550020" className="text-white font-bold text-xl hover:text-red-400 transition flex items-center space-x-2">
                   <svg className="w-5 h-5" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 002.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 01-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.363-.271.527-.734.417-1.173L6.963 3.102a1.125 1.125 0 00-1.091-.852H4.5A2.25 2.25 0 002.25 4.5v2.25z"/>
                   </svg>
-                  <span>(202) 555-1234</span>
+                  <span>202-455-0020</span>
                 </a>
               </div>
 
@@ -144,7 +144,7 @@ export default function Home() {
             </div>
             <div>
               <label className="block text-sm font-semibold text-gray-700 mb-1">Phone Number*</label>
-              <input className="w-full border border-gray-300 rounded-lg px-3 py-2.5 text-sm focus:ring-2 focus:ring-blue-800 focus:border-blue-800 outline-none" placeholder="(202) 555-1234" type="tel" />
+              <input className="w-full border border-gray-300 rounded-lg px-3 py-2.5 text-sm focus:ring-2 focus:ring-blue-800 focus:border-blue-800 outline-none" placeholder="202-455-0020" type="tel" />
             </div>
             <div>
               <button type="submit" className="w-full bg-red-600 hover:bg-red-700 text-white py-2.5 px-6 rounded-lg font-semibold text-sm transition shadow-sm">
@@ -437,7 +437,7 @@ export default function Home() {
               </svg>
               <span>Schedule Service</span>
             </a>
-            <a href="tel:2025551234" className="bg-red-700 text-white font-bold px-8 py-3.5 rounded-lg hover:bg-red-800 transition flex items-center space-x-2 border border-red-500">
+            <a href="tel:2024550020" className="bg-red-700 text-white font-bold px-8 py-3.5 rounded-lg hover:bg-red-800 transition flex items-center space-x-2 border border-red-500">
               <svg className="w-5 h-5" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 002.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 01-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.363-.271.527-.734.417-1.173L6.963 3.102a1.125 1.125 0 00-1.091-.852H4.5A2.25 2.25 0 002.25 4.5v2.25z"/>
               </svg>

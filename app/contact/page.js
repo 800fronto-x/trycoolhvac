@@ -30,8 +30,8 @@ export default function Contact() {
             <span className="font-bold">Need emergency service?</span>
           </div>
           <span className="text-red-100 text-sm">Skip the form — call us directly for immediate help.</span>
-          <a href="tel:2025551234" className="bg-white text-red-600 font-bold text-sm px-5 py-2 rounded-lg hover:bg-red-50 transition flex-shrink-0">
-            Call (202) 555-1234
+          <a href="tel:2024550020" className="bg-white text-red-600 font-bold text-sm px-5 py-2 rounded-lg hover:bg-red-50 transition flex-shrink-0">
+            Call 202-455-0020
           </a>
         </div>
       </div>
@@ -69,7 +69,7 @@ export default function Contact() {
               </div>
               <div>
                 <label className="block text-sm font-semibold text-gray-700 mb-1">Phone Number*</label>
-                <input className="w-full border border-gray-300 rounded-lg px-3 py-2.5 text-sm focus:ring-2 focus:ring-blue-800 focus:border-blue-800 outline-none transition" placeholder="(202) 555-1234" type="tel" />
+                <input className="w-full border border-gray-300 rounded-lg px-3 py-2.5 text-sm focus:ring-2 focus:ring-blue-800 focus:border-blue-800 outline-none transition" placeholder="202-455-0020" type="tel" />
               </div>
               <div>
                 <label className="block text-sm font-semibold text-gray-700 mb-1">ZIP/Postal Code*</label>
@@ -115,7 +115,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <p className="font-semibold text-sm text-gray-400 mb-0.5">Phone</p>
-                    <a href="tel:2025551234" className="text-white font-bold text-lg hover:text-red-400 transition">(202) 555-1234</a>
+                    <a href="tel:2024550020" className="text-white font-bold text-lg hover:text-red-400 transition">202-455-0020</a>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4">
