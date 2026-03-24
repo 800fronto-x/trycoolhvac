@@ -62,12 +62,13 @@ export default function Footer() {
           <div>
             <h4 className="font-bold text-sm uppercase tracking-wider mb-4 text-gray-200">Services</h4>
             <ul className="space-y-2.5 text-sm text-gray-400">
-              <li><a href="/services" className="hover:text-white transition">AC Repair</a></li>
-              <li><a href="/services" className="hover:text-white transition">Heating Repair</a></li>
-              <li><a href="/services" className="hover:text-white transition">HVAC Installation</a></li>
-              <li><a href="/services" className="hover:text-white transition">Maintenance</a></li>
-              <li><a href="/services" className="hover:text-white transition">Indoor Air Quality</a></li>
-              <li><a href="/services" className="hover:text-white transition">Commercial HVAC</a></li>
+              <li><a href="/services/ac-repair" className="hover:text-white transition">AC Repair</a></li>
+              <li><a href="/services/heating-repair" className="hover:text-white transition">Heating Repair</a></li>
+              <li><a href="/services/hvac-installation" className="hover:text-white transition">HVAC Installation</a></li>
+              <li><a href="/services/maintenance" className="hover:text-white transition">Maintenance</a></li>
+              <li><a href="/services/indoor-air-quality" className="hover:text-white transition">Indoor Air Quality</a></li>
+              <li><a href="/services/commercial-hvac" className="hover:text-white transition">Commercial HVAC</a></li>
+              <li><a href="/blog" className="hover:text-white transition">Blog</a></li>
             </ul>
           </div>
 
